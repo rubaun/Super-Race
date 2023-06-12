@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{63DF95FE-0F40-DAC2-A6E5-57CCCFADB9CF}</ProjectGuid>
+    <ProjectGuid>{E0268BD1-EFE4-76A7-C214-1CBD16FC4273}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,7 @@
     <Compile Include="Assets\Course Library\Scripts\Director.cs" />
     <Compile Include="Assets\Course Library\Scripts\PlayerController2.cs" />
     <Compile Include="Assets\Course Library\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Course Library\Scripts\Teste.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
