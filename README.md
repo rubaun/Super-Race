@@ -1,4 +1,4 @@
-# superrace
+# Super Race
 Projeto simples de jogo de corrida.
 
 PROJETO SUPER RACE
