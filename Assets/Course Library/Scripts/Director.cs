@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Director : MonoBehaviour
 {
+    //Comentário GitHub
     //private bool gameStart;
     private List<Bus> inimigos = new List<Bus>();
     private PlayerController player1;
